@@ -1,5 +1,5 @@
 # Analysis-of-Patient-Blood-Test-Survey
-This Power BI dashboard provides an in-depth analysis of Amazon Prime Video’s content library, covering ratings, genres, countries, movie/TV show split, and release trends from 1920 to 2021. It helps visualize platform growth and content distribution using interactive charts and KPIs.
+This project performs a detailed data analysis of patient blood test survey data to uncover health trends and insights. By cleaning and exploring a dataset of blood test metrics (such as blood count parameters, glucose, cholesterol, etc.), the analysis identifies common patterns, distributions, and anomalies across patient samples. Visualization tools (e.g., histograms, box plots, correlation matrices) are used to highlight key relationships—such as how different biomarkers correlate with each other and how they vary across demographics (age, gender). The project also applies basic statistical techniques and potentially predictive modeling (e.g., regression or classification) to flag out-of-range values and assess risk factors. Overall, it demonstrates skills in data preprocessing, exploratory data analysis (EDA), data visualization, and insight generation, helping medical professionals or researchers understand important trends in blood test results.
 
 📌 Project Overview
 
